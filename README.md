@@ -8,7 +8,7 @@ This is the well known Snake Game which we used to play during our childhood, th
 
 here is a Demo Video of my Snake Game.
 
-https://www.linkedin.com/posts/rohit-wankhede-453b021b9_snakegame-python-github-activity-7235928104068673536-tHlp?utm_source=share&utm_medium=member_desktop
+https://www.linkedin.com/posts/rohit-wankhede-453b021b9_snakegame-github-activity-7235937925392171008-9AyU?utm_source=share&utm_medium=member_desktop
 
 
 ## Documentation
